@@ -2,7 +2,8 @@
 # Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
 
 This is the official implementation of our paper "Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation", AAAI 2022 (Oral Presentation) 
-\[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20210/19969)\] \[[Supplementary_Material]([https://ojs.aaai.org/index.php/AAAI/article/view/20210/19969](https://drive.google.com/file/d/1NytmEest4QbwSt9bR7mLYgxV1_wtZzo6/view?usp=sharing))\]
+\[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20210/19969)\] \[[Supplementary Material](https://drive.google.com/file/d/1NytmEest4QbwSt9bR7mLYgxV1_wtZzo6/view?usp=sharing)\] 
+
 
 
 Since I don't have enough bandwidth to clean up the code now, please refer to the implementation detail of this paper if you would like to reproduce it.
