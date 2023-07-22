@@ -5,7 +5,7 @@ This is the official implementation of our paper "Cross-Modal Mutual Learning fo
 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20210/19969)\]
 
 
-Since I don't have enough bandwidth to clean up the code now, Please refer to the implementation detail of this paper if you would like to reproduce it.
+Since I don't have enough bandwidth to clean up the code now, please refer to the implementation detail of this paper if you would like to reproduce it.
 
 ## Citation
 ```
