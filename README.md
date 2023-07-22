@@ -6,7 +6,7 @@ This is the official implementation of our paper "Cross-Modal Mutual Learning fo
 
 
 
-Since I don't have enough bandwidth to clean up the code now, please refer to the implementation detail of this paper if you would like to reproduce it.
+Since I don't have enough bandwidth to clean up and release the code now, please refer to the implementation detail and supplementary material of this work if you would like to reproduce it.
 
 
 ## Citation
